@@ -1,11 +1,14 @@
 # Object-detection
 🚀 Object Detection & Tracking System
+
 📌 Project Overview
+
 This project implements a real-time Object Detection and Tracking system using computer vision and deep learning techniques. It detects multiple objects in video streams and assigns unique IDs to track them consistently across frames.
 
 The system is designed to handle real-world scenarios such as surveillance, traffic monitoring, and smart vision applications.
 
 🎯 Features
+
 ▶ Real-time object detection
 
 ▶ Multi-object tracking with unique IDs
@@ -17,6 +20,7 @@ The system is designed to handle real-world scenarios such as surveillance, traf
 ▶ Efficient and accurate performance
 
 🧠 Technologies Used
+
 ▶ Python
 
 ▶ OpenCV
@@ -38,6 +42,7 @@ The system is designed to handle real-world scenarios such as surveillance, traf
 ▶ Objects are tracked continuously across frames
 
 📸 Sample Output
+
 Detected objects are highlighted with bounding boxes and unique tracking IDs in real time.
 
 🚀 Future Improvements
