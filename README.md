@@ -1,4 +1,4 @@
-# Object-detection
+# Object-detection CV project
 🚀 Object Detection & Tracking System
 
 📌 Project Overview
