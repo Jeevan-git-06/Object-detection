@@ -26,6 +26,7 @@ The system is designed to handle real-world scenarios such as surveillance, traf
 ▶ Object Tracking Algorithms (e.g., SORT / DeepSORT)
 
 ⚙️ How It Works
+
 ▶ Video frames are captured from a camera or video file
 
 ▶ A deep learning model detects objects in each frame
@@ -40,6 +41,7 @@ The system is designed to handle real-world scenarios such as surveillance, traf
 Detected objects are highlighted with bounding boxes and unique tracking IDs in real time.
 
 🚀 Future Improvements
+
 ▶ Improve tracking accuracy
 
 ▶ Add object counting and analytics
